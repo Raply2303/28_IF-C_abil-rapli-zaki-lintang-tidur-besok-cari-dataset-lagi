@@ -3,3 +3,6 @@
 3.	Muhammad Zaky Assyakuri 		(123240222)
 4.	Lintang Cahaya Eka Putra 		(123240245)
 
+Nomor kelompok 28
+
+Nama kelompok: abil, rapli, zaki, lintang tidur besok cari dataset lagi
