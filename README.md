@@ -3,7 +3,7 @@
 **Proyek Akhir Praktikum Data Science 2026/2027**
 Program Studi Informatika, UPN "Veteran" Yogyakarta | Kelompok 28
 
-Metode: **Klasifikasi** (5 kelas emosi) | Fitur: **TF-IDF + Chi-Square** | Model: **Random Forest** dan **XGBoost**
+Metode: **Klasifikasi** 5 kelas emosi | Fitur: **TF-IDF + Chi-Square** | Model: **Random Forest** dan **XGBoost**
 
 ---
 
